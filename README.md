@@ -1,16 +1,26 @@
-## Hi there 👋
+# Velto Studios
 
-<!--
-**velto-studios/velto-studios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Building Digital Products. Engineering Intelligent Solutions.
 
-Here are some ideas to get you started:
+Velto Studios is an India-based digital technology and software development studio helping startups, growing businesses, and agencies build modern digital products and improve their operations. We work remotely with international projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What we do
+
+- Websites and digital experiences
+- Web applications and SaaS products
+- Mobile applications
+- AI applications, agents, and workflow automation
+- UI/UX and product design
+- APIs, integrations, and technical consulting
+- Ongoing engineering support and agency partnerships
+
+## How we work
+
+We start with the business problem, make scope and technical choices clear, build in reviewable increments, and test against agreed requirements. Project examples will be shared when ownership and publication permission are confirmed.
+
+## Connect
+
+- Instagram: [@velto_studios](https://www.instagram.com/velto_studios/)
+- LinkedIn: [Velto Studios](https://www.linkedin.com/in/velto-studios-957bbb449/)
+
+Business email and website details will be added once verified.
